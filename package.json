@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ugur1525.plainjs-l16q0x3l",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve W3ca8qSQmkDodM82eu6g --open"
+  }
+}
